@@ -1,0 +1,212 @@
+html {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    color: #333;
+    align-content: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+    margin: 100px;
+    background-color: #fd3866;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #078e92;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-size: 100px;
+}
+
+nav {
+    background-color: rgb(253, 56, 102);
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #065867;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #00343a;
+    border-bottom: 2px solid #065867;
+    display: inline-block;
+    font-family: "Abril Fatface", serif;
+    margin: 10px;
+
+}
+
+p {
+    font-family: "Domine", serif;
+    margin: 10px
+}
+
+li {
+    font-family: "Domine", serif;
+}
+
+img {
+    width: 250px;
+    border-radius: 150px;
+    border: 2px solid;
+    margin: 10px;
+}
+
+table {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse
+}
+
+th,
+td {
+    border: 3px solid #078e92;
+    padding: 10px;
+    font-family: "Domine", serif;
+}
+
+th {
+    background-color: #fd3866;
+    color: white;
+}
+
+#projects {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.p1 {
+    background-color: #078e92;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.p2 {
+    background-color: #fd3866;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.p3 {
+    background-color: #fd6484;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 10px;
+    font-family: "Domine", serif;
+
+}
+
+input,
+textarea,
+button {
+    width: 87%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #078e92;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: "Domine", serif;
+    width: 47%;
+}
+
+button:hover {
+    background-color: #065867;
+}
+
+.back-top-but {
+    position: relative;
+    top: -50px;
+    left: 610px;
+    color: white;
+    background-color: #078e92;
+    border: none;
+    border-radius: 3px;
+    width: 125%;
+
+}
+
+hr {
+    border: 1.5px solid gray;
+} 
+
+.back-top-but:hover {
+    cursor: pointer;
+    background-color: #fd3866;
+    color: #065867;
+    border: 1px solid #078e92;
+}
+
+.back-top-but-cont {
+    position: absolute;
+}
+
+.git {
+    width: 40px;
+    height: auto;
+    margin-left: 15px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background-color: #065867;
+    padding: 10px;
+    margin-top: 20px;
+}
