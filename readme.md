@@ -42,7 +42,7 @@ portfolio-project/
 
    ```
    bash
-   git clone https://github.com/SNEHANSH1306/portfolio-mini-project.git
+   git clone https://github.com/elegantlyash/CSFCP.git
    ```
 2. Open the project folder.
 3. Double-click `index.html`
@@ -52,7 +52,7 @@ No extra installations are required.
 
 ## Documentation
 
-Full documentation is available inside the `docs/` folder:
+Full documentation is available inside the `Documents/` folder:
 
 * **overview.md** — Project introduction
 * **development.md** — Commit history, development steps, and Git usage
@@ -68,7 +68,7 @@ Full documentation is available inside the `docs/` folder:
 
 ## Author
 
-**Name:** Snehansh
+**Name:** Yash Vats
 **Course:** B.Tech CSE AI&ML
 **Project:** CSF Mini Project – Portfolio Website
 
